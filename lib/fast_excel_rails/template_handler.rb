@@ -23,6 +23,8 @@ module FastExcelRails
 
         if root_view
           @fast_excel_rails_template_workbook.read_string
+        else
+          ''
         end
       eos
     end
