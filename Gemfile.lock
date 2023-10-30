@@ -1,15 +1,15 @@
 PATH
   remote: .
   specs:
-    fast_excel_rails (0.1.0)
+    fast_excel_rails (0.1.1)
       fast_excel (~> 0.1)
 
 GEM
   remote: https://rubygems.org/
   specs:
-    fast_excel (0.4.0)
+    fast_excel (0.4.1)
       ffi (> 1.9, < 2)
-    ffi (1.15.3)
+    ffi (1.16.3)
     minitest (5.14.4)
     rake (12.3.3)
 
@@ -22,4 +22,4 @@ DEPENDENCIES
   rake (~> 12.0)
 
 BUNDLED WITH
-   2.1.2
+   2.2.33
